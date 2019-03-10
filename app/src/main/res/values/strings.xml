@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FragmentLandscape</string>
+
+    <string-array name="baslik">
+
+        <item>Birinci</item>
+        <item>İkinci</item>
+        <item>Üçüncü</item>
+        <item>Dördüncü</item>
+        <item>Beşinci</item>
+
+    </string-array>
+
+    <string-array name="aciklama">
+
+    <item>Birinci Açıklama</item>
+    <item>İkinci Açıklama</item>
+    <item>Üçüncü Açıklama</item>
+    <item>Dördüncü Açıklama</item>
+    <item>Beşinci Açıklama</item>
+
+</string-array>
+
+</resources>
